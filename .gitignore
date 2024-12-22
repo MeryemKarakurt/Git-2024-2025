@@ -1,0 +1,10 @@
+# Log and auxiliary files
+*.aux
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.sav
+*.dvi
+
